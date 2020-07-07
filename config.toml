@@ -1,4 +1,4 @@
-baseURL = ["https://hugo-static-site.vercel.app/", "localhost"]
+baseURL = ["https://hugo-static-site.now.sh/", "https://hugo-static-site.vercel.app/", "localhost"]
 title   = "<your name here>"
 languageCode = "en-us"
 theme = "hello-friend-ng"
